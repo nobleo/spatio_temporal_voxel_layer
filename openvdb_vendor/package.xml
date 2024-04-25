@@ -25,6 +25,7 @@
 
   <depend>libboost-iostreams-dev</depend>
   <depend>libboost-thread-dev</depend>
+  <depend>libgdal-dev</depend>  <!-- For libblosc-dev -->
   <depend>tbb</depend>
   <depend>zlib</depend>
 
